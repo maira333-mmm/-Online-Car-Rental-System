@@ -3,9 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1E3A5F,50:2563EB,100:60A5FA&text=Online%20Car%20Rental&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Book%20Cars%20%7C%20Browse%20%7C%20Drive&descAlignY=60&animation=fadeIn" alt="Online Car Rental Header" />
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&repeat=true&width=700&height=52;Fully+Functional+Car+Rental+System.;Browse%2C+Book%2C+and+Filter+Cars+Easily.;Responsive+UI+%7C+PHP+Backend+%7C+MySQL+Database.;Secure+Authentication+%26+User+Management." alt="Typing Animation" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&repeat=true&width=700&height=52&lines=Fully+Functional+Car+Rental+System.;Browse%2C+Book%2C+and+Filter+Cars+Easily.;Responsive+UI+%7C+PHP+Backend+%7C+MySQL+Database.;Secure+Authentication+%26+User+Management." alt="Typing Animation"/>
 <br><br>
 
 A fully functional **Online Car Rental System** with car browsing, booking, and category filtering. Implemented a responsive UI with interactive forms using **HTML, CSS, JavaScript, and Bootstrap**. Integrated **PHP** for backend and **MySQL** for database handling.
